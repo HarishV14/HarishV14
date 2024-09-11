@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://harishv-portfolio.web.app/](https://harishv-portfolio.web.app/)
 
-- 📫 How to reach me **cecsharishv24@gmail.com**
+- 📫 How to reach me **harishv@testpress.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
