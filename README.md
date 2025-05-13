@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harish V</h1>
 <!-- - 👨‍💻 All of my projects are available at [https://harishv-portfolio.web.app/](https://harishv-portfolio.web.app/) -->
 <h3 align="center">Developer At Testpress</h3>
-
-- 🌱 I’m currently learning **Django**
-
-
 - 📫 How to reach me **harishv@testpress.in**
 
 <h3 align="left">Connect with me:</h3>
